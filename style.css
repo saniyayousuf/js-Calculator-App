@@ -1,0 +1,44 @@
+#cal{
+    height: 100px;
+    width: 330px;
+    padding: 25px;
+    font-size: 40px;
+    border-style:double;
+    font-weight: bold;
+    /* font-size: larger; */
+    /* opacity: 0.4; */
+    color: white;
+    background-color: navy;
+    
+}
+#cal:hover{
+    color: black;
+    background-color: plum;
+}
+button{
+    height: 60px;
+    width: 60px;
+    border-radius: 4px;
+    margin: 8px 10px;
+    font-size: 30px;
+    font-style:italic;
+    font-weight: bold;
+    color: black;
+    background-image: url('images/download\ \(3\).jpg');
+    opacity: 1;
+    border-style:hidden;
+}
+.calculate{
+    border: 2px solid black;
+    height: 500px;
+    width: 400px;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-image: url('images/download\ \(2\).jpg');
+    /* opacity: 0.5; */
+    /* background-color: black; */
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+
+}    
